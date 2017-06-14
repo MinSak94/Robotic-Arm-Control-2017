@@ -1,0 +1,9 @@
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\bin\Debug\Kati.exe.config
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\bin\Debug\Kati.exe
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\bin\Debug\Kati.pdb
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.csprojResolveAssemblyReference.cache
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.Form1.resources
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.Properties.Resources.resources
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.csproj.GenerateResource.Cache
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.exe
+c:\users\dimosthenis\documents\visual studio 2015\Projects\Kati\Kati\obj\Debug\Kati.pdb
